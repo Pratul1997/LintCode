@@ -18,4 +18,6 @@ class Solution:
                 continue
             head = head.next
         return temp
+        
+        
 ```

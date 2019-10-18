@@ -10,4 +10,5 @@ class Solution:
                 newTail += 1
                 A[newTail] = A[i]
         return newTail + 1
+        
 ```
